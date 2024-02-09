@@ -1,6 +1,6 @@
 # Using Syft as SBOM Tool with Different Container Images
 
-Syft is a powerful SBOM (Software Bill of Materials) tool that provides insights into the contents of container images. In this guide, we'll explore how to use Syft with different container images to generate SBOM reports.
+[Syft](https://github.com/anchore/syft) is a powerful SBOM (Software Bill of Materials) tool that provides insights into the contents of container images. In this guide, we'll explore how to use Syft with different container images to generate SBOM reports.
 
 ## Installation
 
